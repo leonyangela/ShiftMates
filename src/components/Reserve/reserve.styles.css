@@ -1,0 +1,7 @@
+.placeholder {
+  color: var(--color-gray-600);
+}
+
+.date-time-input {
+  font-size: var(--font-base);
+}
